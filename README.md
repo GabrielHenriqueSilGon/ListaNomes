@@ -1,2 +1,4 @@
-# ListaNomes
- 
+Nesse problema, utilizamos uma lista para guardar uma certa quandidade de nomes e funções para retirar nomes repetidos. Ao compilar o pograma, este pede o input de nomes para serem adicionados a lista, no estado atual a lista pega até 5 nomes para deixar o teste mais facil, mas esta pode segurar até 100 strings. Após a lista encher, a função de retirar copias é aplicada, e então todos os strings repetidos na lista são substituidos pelo string " ". Por fim, o algoritmo tem uma função de adicionar novos nomes aos espaços deixados na lista, por meio de um laço de repetição com um if acoplado, dando essa função um valor de n².
+
+Se não conseguir compilar por MakeFile, use o link para o onlineGBD
+https://onlinegdb.com/WLSFLoCaw
